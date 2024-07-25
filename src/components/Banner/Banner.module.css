@@ -1,0 +1,7 @@
+.banner {
+    width: 100%;
+    height: 654px;
+    background-image: url('bulir.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

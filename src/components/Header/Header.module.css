@@ -1,0 +1,25 @@
+.header {
+    background: transparent;
+    border-bottom: 2px solid #ffff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header img {
+    width: 30%;
+    top: 10;
+}
+
+.header a {
+    border: 2px solid #ffff;
+    margin-right: 5px;
+    background-color: #0C2340;
+    font-size: 0.9rem;
+    
+}
